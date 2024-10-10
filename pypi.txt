@@ -1,0 +1,5 @@
+pip install pyinstaller
+pip install pygame
+pip install PyGLM
+pip install numpy
+pip install PyOpenGL PyOpenGL_accelerate
